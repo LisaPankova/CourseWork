@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="postgresql-42.5.0">
+    <archive path="C:/Program Files/IdeaProjects/FantasyWorld/Server/lib/postgresql-42.5.0.jar" />
+  </library>
+  <library name="jakarta.servlet-api-6.0.0">
+    <archive path="C:/Program Files/IdeaProjects/FantasyWorld/Server/lib/jakarta.servlet-api-6.0.0.jar" />
+  </library>
+  <library name="javax.servlet-api-4.0.1">
+    <archive path="C:/Program Files/IdeaProjects/FantasyWorld/Server/lib/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="hessian-4.0.60">
+    <archive path="C:/Program Files/IdeaProjects/FantasyWorld/Server/lib/hessian-4.0.60.jar" />
+  </library>
+</eclipse-userlibraries>
+

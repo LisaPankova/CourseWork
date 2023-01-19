@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../out/test/Server"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="postgresql-42.5.0" value="project"/>
+		<level name="jakarta.servlet-api-6.0.0" value="project"/>
+		<level name="hessian-4.0.60" value="project"/>
+		<level name="javax.servlet-api-4.0.1" value="project"/>
+	</levels>
+</component>

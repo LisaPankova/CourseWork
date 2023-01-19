@@ -1,0 +1,18 @@
+<web-app>
+    <servlet>
+        <servlet-name>character</servlet-name>
+        <servlet-class>com.caucho.hessian.server.HessianServlet</servlet-class>
+        <init-param>
+            <param-name>home-class</param-name>
+            <param-value>ru.fantasy.server.CharacterServiceImpl</param-value>
+        </init-param>
+        <init-param>
+            <param-name>home-api</param-name>
+            <param-value>ru.fantasy.api.services.CharacterService</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>character</servlet-name>
+        <url-pattern>/character</url-pattern>
+    </servlet-mapping>
+</web-app>
